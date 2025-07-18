@@ -3,8 +3,8 @@ import asyncio
 import websockets
 
 # اطلاعات روم
-ROOM_ID = "your_room_id_here"
-ROOM_TOKEN = "your_room_token_here"
+ROOM_ID = "ec567b4662aeec03b5095109baa516b2ec205559a7317e8254c8d4bb858a8855"
+ROOM_TOKEN = "660e6448818d797101c5d230&invite_id=683a0084e81a61a989705c89"
 ADMINS = ["AdminUser1"]
 
 # ایموت تستی
